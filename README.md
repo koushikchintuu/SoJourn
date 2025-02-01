@@ -1,7 +1,5 @@
 # SoJourn
 
-# Sojourn
-
 Sojourn is a web application for listing and reviewing places to stay. Users can browse, add, edit, and review listings. It uses Node.js, Express, MongoDB, and Passport.js for authentication.
 
 ## Live Demo
